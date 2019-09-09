@@ -1,0 +1,7 @@
+C:\Users\marce\OneDrive\Documentos\Visual Studio\Hospital\Hospital\bin\Debug\Hospital.exe.config
+C:\Users\marce\OneDrive\Documentos\Visual Studio\Hospital\Hospital\bin\Debug\Hospital.exe
+C:\Users\marce\OneDrive\Documentos\Visual Studio\Hospital\Hospital\bin\Debug\Hospital.pdb
+C:\Users\marce\OneDrive\Documentos\Visual Studio\Hospital\Hospital\obj\Debug\Hospital.csprojAssemblyReference.cache
+C:\Users\marce\OneDrive\Documentos\Visual Studio\Hospital\Hospital\obj\Debug\Hospital.csproj.CoreCompileInputs.cache
+C:\Users\marce\OneDrive\Documentos\Visual Studio\Hospital\Hospital\obj\Debug\Hospital.exe
+C:\Users\marce\OneDrive\Documentos\Visual Studio\Hospital\Hospital\obj\Debug\Hospital.pdb
